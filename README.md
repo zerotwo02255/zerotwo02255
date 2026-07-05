@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Al Siam — Full Stack Developer" src="assets/header-dark.svg" width="100%">
+  <img alt="Zerotwo02255" src="assets/header-dark.svg" width="100%">
 </picture>
 
 <!-- Profile Views -->
