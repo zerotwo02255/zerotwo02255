@@ -30,7 +30,7 @@
   <a href="https://x.com/_zerotwo02255" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>&nbsp;
-  <a href="https://instagram.com/_zerotwo02255" target="_blank">
+  <a href="https://instagram.com/__ankit.12" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
   <a href="https://facebook.com/zerotwo02255.dev" target="_blank">
