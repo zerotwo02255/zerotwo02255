@@ -68,7 +68,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/zerotwo02255">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerotwo02255&custom_title=Al%20Siam's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=0070F3&point=00DFD8&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zerotwo02255&custom_title=Zerotwoo%'s%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=0070F3&point=00DFD8&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
 
