@@ -40,8 +40,7 @@
 
 <br>
 
-<!-- About Me -->
-## `> about_me.ts`
+
 
 
 
@@ -52,7 +51,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,vscode,python,C,C++,html,css&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
