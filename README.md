@@ -33,33 +33,6 @@
 
 <br>
 
-<!-- Featured Projects -->
-## `> featured_projects`
-
-<p align="center">
-  <a href="https://github.com/zerotwo02255/itasks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerotwo02255&repo=itasks&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="iTasks" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/zerotwo02255/folio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerotwo02255&repo=folio&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="folio" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/zerotwo02255/web-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerotwo02255&repo=web-projects&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Web Projects" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/zerotwo02255/readme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zerotwo02255&repo=readme&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Profile README" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/zerotwo02255?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br>
 
 <!-- GitHub Stats -->
 ## `> github_stats`
