@@ -19,30 +19,6 @@
   </a>
 </p>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://zerotwo02255.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/al-siam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/_zerotwo02255" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://instagram.com/__ankit.12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="https://facebook.com/zerotwo02255.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-<br>
-
-
-
-
 
 <br>
 
