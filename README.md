@@ -43,23 +43,7 @@
 <!-- About Me -->
 ## `> about_me.ts`
 
-```typescript
-const zerotwo02255 = {
-    pronouns: "he" | "him",
-    location: "Bangladesh 🇧🇩",
-    role: "Full Stack Developer",
-    company: "Open to opportunities",
-    languages: ["TypeScript", "JavaScript", "Python"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
-        database: ["MongoDB", "PostgreSQL"],
-        tools: ["Docker", "Git", "VS Code", "Figma"]
-    },
-    currentFocus: "Building beautiful, performant web experiences",
-    funFact: "I think dark mode is the only mode 🌑"
-};
-```
+
 
 <br>
 
