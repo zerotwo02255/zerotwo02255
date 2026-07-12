@@ -20,14 +20,14 @@ jobs:
       - name: Generate Snake Animation — Dark Mode
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: zerotwo02255
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#0070F3&color_dots=#333333,#0070F3,#00DFD8,#0070F3,#00DFD8
 
       - name: Generate Snake Animation — Light Mode
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: zerotwo02255
           outputs: |
             dist/github-snake.svg?palette=github&color_snake=#0070F3&color_dots=#EAEAEA,#0070F3,#00DFD8,#0070F3,#00DFD8
 
